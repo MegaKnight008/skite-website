@@ -3,6 +3,7 @@ Official website for the bot Skite
 
 # Features
 This website has all the info on bot Skite. It includes
+
 |S.no. | Features                          |
 |------| ----------------------------------|
 |1.    |About bot                          |
@@ -12,6 +13,7 @@ This website has all the info on bot Skite. It includes
 |5.    |Privacy policy                     |
 
 # Command modules
+
 |S.no. | Name                   | Avalibilty |
 |------|------------------------|------------|
 | 1    | Fun commands           |    🟢      |
